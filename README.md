@@ -1,6 +1,7 @@
 # lab2-project-requirements-recitation-014-team-2
 Здравствуйте
 
+Project Team Members:
 Project Team Members: 
 Nick Bolger
 =======
@@ -26,6 +27,7 @@ Team 2 <br />
 
 
 edited for demo
-=======
 Practicing editing the pull requests right now.
 
+
+//This is a project to learn the ins and outs of github
